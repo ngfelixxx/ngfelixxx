@@ -38,8 +38,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/felix-ng-44a3b6172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:felixng2003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/felix-ng-44a3b6172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Felix%20Ng-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:felixng2003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-felixng2003@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <!---
 ngfelixxx/ngfelixxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

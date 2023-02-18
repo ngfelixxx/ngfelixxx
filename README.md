@@ -3,6 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Bachelor of Science Double Major in Computer Science & Data Science with a Specialisation in Artificial Intelligence.
+- 📜 &nbsp; AWS Certified Cloud Practitioner
 - 💼 &nbsp; Working part time as a Information Systems Tutor at Wellington School of Business & Government.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3> 🛠 &nbsp;Tech Stack</h3>
